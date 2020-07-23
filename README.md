@@ -12,7 +12,7 @@
 <a href="https://t.me/karthikmadupu">
   <img align="left" alt="Karthik's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.facebook.com/karthikmadupu/">
+<a href="https://www.facebook.com/madupu.karthik/">
   <img align="left" alt="Karthik's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
