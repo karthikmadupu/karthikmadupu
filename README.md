@@ -1,16 +1,48 @@
-### Hi there 👋
+### Hola, I'm Karthik! 👋 
 
-<!--
-**karthikmadupu/karthikmadupu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/karthik_madupu">
+  <img align="left" alt="Karthik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/karthikmadupu">
+  <img align="left" alt="Karthik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/karthikmadupu">
+  <img align="left" alt="Karthik's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/karthikmadupu">
+  <img align="left" alt="Karthik's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.facebook.com/karthikmadupu/">
+  <img align="left" alt="Karthik's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working with [Hitachi Consulting](https://www.hitachivantara.com).
+- 🌱 I’m currently learning Javascript
+- 👯 I’m looking to collaborate on any Javascripit Frameworks
+- 🤔 I’m looking for help with Learning React,Redux
+- 💬 Ask me about Java and React
+- 📫 How to reach me: [Twitter - @karthikmadupu](https://twitter.com/karthik_madupu) , [Linkdein - @karthikmadupu](https://linkedin.com/in/karthikmadupu) 
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend almost 2 hours Gymming/PowerLifting everyday 🏋️
+
+[![Twitter: karthikmadupu](https://img.shields.io/twitter/follow/karthikmadupu?style=social)](https://twitter.com/karthik_madupu)
+[![Linkedin: karthikmadupu](https://img.shields.io/badge/-karthikmadupu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthikmadupu/)](https://www.linkedin.com/in/karthikmadupu/)
+[![GitHub karthikmadupu](https://img.shields.io/github/followers/karthikmadupu?label=follow&style=social)](https://github.com/karthikmadupu)
+
+
+**Languages and Tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+<a href="https://github.com/karthikmadupu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikmadupu&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/karthikmadupu">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikmadupu&show_icons=true&theme=dracula&line_height=27" alt="Karthik's github stats"/>
+</a>
+
