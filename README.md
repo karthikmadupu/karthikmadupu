@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working with [Hitachi Consulting](https://www.hitachivantara.com).
+- 🔭 I’m currently working with [IBM](https://www.ibm.com).
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on any Javascripit Frameworks
 - 🤔 I’m looking for help with Learning React,Redux
